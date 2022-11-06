@@ -1,5 +1,5 @@
-user_prompt = "Enter a ToDo item:
-todo1 = input(user_prompt)
+user_prompt = "Enter a ToDo item: "
+todo1 = input(user_prompt
 todo2 = input(user_prompt)
 todo3 = input(user_prompt)
 
