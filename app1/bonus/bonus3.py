@@ -1,4 +1,4 @@
-meals = ['pasta','pizza','burgers']
+meals = ['pasta', 'pizza', 'burgers']
 
 for meal in meals:
     print(meal.capitalize())
