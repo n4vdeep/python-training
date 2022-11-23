@@ -1,7 +1,9 @@
 while True:
+    # Get user input and strip space chars from it
     user_action = input("Type add, edit, or complete. To see your Todos type show, or exit to close app: ")
     user_action = user_action.strip()
 
+    # Match compares the user input to case
     match user_action:
         case 'add':
             todo = input("Enter a todo: ") + "\n"
