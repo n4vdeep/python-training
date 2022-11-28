@@ -1,4 +1,0 @@
-Clean the car
-Feed the cat
-Take out bins
-Learn some K8s and Docker
